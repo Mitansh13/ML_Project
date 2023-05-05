@@ -1,6 +1,7 @@
 # ML_Project
 
 Laptop Price Predictor
+
 ![image](https://user-images.githubusercontent.com/74059309/236467980-bc21b244-2b93-4544-ae50-40f93d3924c2.png)
 
 To Run this project we require two library
